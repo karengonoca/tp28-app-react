@@ -10,7 +10,7 @@ const ContentWrapper = () => {
         <TopBar />
         <ContentRowTop />
       </div>
-
+      
       <Footer />
     </div>
   );
